@@ -1,7 +1,7 @@
-# fynd-ai-intern-task1-NoteBook-
+# LLM Rating Prediction-
 Rating prediction using LLM prompt engineering
 
-# Fynd AI Intern Task 1 – LLM Rating Prediction
+# LLM Rating Prediction
 
 ## Overview
 This project explores how Large Language Models (LLMs) can be used to predict user ratings (1–5) from textual reviews using prompt engineering techniques.
